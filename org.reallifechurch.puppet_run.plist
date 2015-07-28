@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>com.company.puppet_run</string>
+  <string>org.reallifechurch.puppet_run</string>
   <key>EnvironmentVariables</key>
   <dict>
     <key>PATH</key>
